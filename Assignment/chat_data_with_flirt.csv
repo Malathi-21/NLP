@@ -1,0 +1,201 @@
+timestamp,sender,message,media,call_flag,flirt,flirt_predicted
+07-01-2020 11:04,AR,See you,True,Yes,1.0,1.0
+06-12-2019 01:12,mabel,Missed voice call,True,No,0.0,0.0
+16-12-2019 07:45,mabel,What are you doing?,False,Yes,1.0,1.0
+22-12-2019 05:20,AR,See you,True,Yes,1.0,1.0
+03-02-2020 19:12,AR,hi,False,No,,1.0
+16-12-2019 18:31,mabel,What are you doing?,False,Yes,1.0,1.0
+04-01-2020 15:06,AR,thats funny!,True,No,,1.0
+08-12-2019 06:56,mabel,handsome,True,Yes,,1.0
+07-12-2019 15:52,AR,Sure,False,Yes,,1.0
+13-01-2020 03:39,mabel,<Media omitted>,True,No,,1.0
+05-01-2020 01:18,mabel,No problem,True,Yes,,1.0
+14-12-2019 07:47,mabel,lets study,False,No,,1.0
+18-12-2019 10:27,mabel,bye,True,Yes,,1.0
+07-12-2019 01:15,AR,make sense,True,Yes,,1.0
+04-01-2020 07:01,mabel,darling,False,Yes,,1.0
+05-02-2020 18:56,AR,No problem,False,No,,1.0
+28-01-2020 11:25,AR,Sure,True,Yes,,1.0
+21-12-2019 18:41,AR,handsome,False,No,,1.0
+04-12-2019 09:23,mabel,What are you doing?,True,No,1.0,1.0
+22-12-2019 17:40,AR,handsome,False,Yes,,1.0
+22-01-2020 02:54,mabel,cutie,True,No,,1.0
+16-12-2019 00:51,AR,See you,True,No,1.0,1.0
+29-12-2019 00:08,AR,babe,False,Yes,,1.0
+21-12-2019 04:01,mabel,cutie,True,Yes,,1.0
+11-01-2020 13:32,AR,stop it,True,No,,1.0
+20-01-2020 23:14,mabel,Okay,True,Yes,,1.0
+08-02-2020 01:10,AR,<Media omitted>,True,No,,1.0
+27-01-2020 05:54,mabel,respect it,False,Yes,,1.0
+21-01-2020 23:08,mabel,See you,True,Yes,1.0,1.0
+24-01-2020 11:57,mabel,Sure,False,Yes,,1.0
+04-02-2020 12:20,AR,Okay,True,No,,1.0
+14-12-2019 16:32,AR,Missed video call,True,Yes,,1.0
+01-01-2020 08:51,AR,love,False,Yes,,1.0
+25-12-2019 07:20,AR,sweet,True,No,,1.0
+02-02-2020 01:26,mabel,This message was delete,True,Yes,,1.0
+21-12-2019 20:41,AR,What are you doing?,False,Yes,1.0,1.0
+12-01-2020 06:23,AR,<Media omitted>,True,Yes,,1.0
+01-01-2020 04:43,AR,darling,True,No,,1.0
+27-01-2020 22:10,AR,Okay,False,Yes,,1.0
+23-12-2019 10:53,AR,handsome,True,No,,1.0
+04-12-2019 19:03,mabel,See you,True,No,1.0,1.0
+16-01-2020 16:08,AR,Okay,False,Yes,,1.0
+28-12-2019 13:27,mabel,handsome,True,No,,1.0
+23-01-2020 20:09,mabel,darling,True,No,,1.0
+04-02-2020 17:42,AR,See you,True,No,1.0,1.0
+08-02-2020 17:32,mabel,darling,False,Yes,,1.0
+19-01-2020 08:42,AR,darling,True,No,,1.0
+19-12-2019 17:10,mabel,See you,False,Yes,1.0,1.0
+24-01-2020 19:02,mabel,<Media omitted>,True,Yes,,1.0
+01-12-2019 09:36,mabel,sweet,True,Yes,,1.0
+20-01-2020 09:46,mabel,writing,False,No,,1.0
+15-01-2020 19:35,AR,This message was delete,True,Yes,,1.0
+16-12-2019 00:45,AR,No problem,True,No,,1.0
+11-01-2020 17:02,mabel,Have some important work,False,Yes,,1.0
+04-02-2020 18:04,AR,See you,True,Yes,1.0,1.0
+02-01-2020 18:32,AR,darling,True,Yes,,1.0
+22-12-2019 04:22,mabel,What are you doing?,False,No,1.0,1.0
+08-12-2019 14:36,mabel,Okay,True,No,,1.0
+24-12-2019 16:13,mabel,<Media omitted>,True,Yes,,1.0
+21-01-2020 01:30,AR,love,False,No,,1.0
+15-12-2019 23:47,mabel,No problem,True,Yes,,1.0
+27-01-2020 17:01,mabel,Okay,False,Yes,,1.0
+17-01-2020 18:57,mabel,not bad,False,No,,1.0
+16-12-2019 16:15,mabel,Okay,False,No,,1.0
+08-01-2020 10:15,AR,This message was delete,True,Yes,,1.0
+28-12-2019 21:18,mabel,See you,False,Yes,1.0,1.0
+08-12-2019 13:33,mabel,see you soon,False,Yes,,1.0
+21-12-2019 07:14,AR,<Media omitted>,True,No,,1.0
+06-02-2020 22:05,mabel,handsome,True,No,,1.0
+17-01-2020 20:20,AR,movie?,False,No,,1.0
+10-12-2019 18:31,mabel,See you,True,Yes,1.0,1.0
+22-12-2019 20:36,mabel,See you,True,No,1.0,1.0
+03-01-2020 06:30,AR,tamil movie,False,Yes,,1.0
+17-12-2019 04:52,mabel,babe,True,No,,1.0
+29-12-2019 17:44,AR,cutie,True,Yes,,1.0
+27-01-2020 13:47,AR,handsome,False,No,,1.0
+26-01-2020 09:28,AR,<Media omitted>,True,Yes,,1.0
+16-01-2020 22:22,mabel,This message was delete,False,No,,1.0
+21-01-2020 14:08,AR,love,True,No,,1.0
+06-12-2019 08:20,AR,love,True,No,,1.0
+09-12-2019 09:02,mabel,Sure,False,Yes,,1.0
+14-01-2020 05:25,mabel,babe,True,Yes,,1.0
+19-12-2019 07:57,mabel,done,False,No,,1.0
+07-12-2019 20:05,mabel,handsome,False,Yes,,1.0
+13-01-2020 05:21,mabel,Sure,True,No,,1.0
+01-01-2020 01:43,mabel,<Media omitted>,False,Yes,,1.0
+04-02-2020 16:54,mabel,handsome,False,No,,1.0
+03-01-2020 08:23,mabel,What are you doing?,False,No,1.0,1.0
+28-12-2019 22:14,mabel,Missed voice call,True,Yes,0.0,0.0
+02-12-2019 10:27,AR,AI,False,Yes,,1.0
+01-12-2019 22:35,mabel,babe,True,Yes,,1.0
+10-12-2019 09:10,AR,<Media omitted>,False,No,,1.0
+08-12-2019 17:44,AR,No problem,False,No,,1.0
+20-12-2019 08:18,AR,babe,True,No,,1.0
+19-01-2020 23:07,AR,What are you doing?,False,Yes,1.0,1.0
+26-12-2019 10:42,AR,Okay,True,Yes,,1.0
+29-01-2020 01:52,AR,Sure,False,No,,1.0
+04-02-2020 11:47,mabel,darling,True,No,,1.0
+09-01-2020 21:38,mabel,See you,True,Yes,1.0,1.0
+20-12-2019 04:00,AR,funny!,False,Yes,,1.0
+25-01-2020 19:06,mabel,image omitted,True,No,,1.0
+02-01-2020 11:34,mabel,Sure,False,No,,1.0
+30-01-2020 11:51,mabel,babe,True,Yes,,1.0
+26-01-2020 04:24,mabel,<Media omitted>,False,Yes,,1.0
+10-12-2019 20:37,mabel,Haha thats funny!,True,Yes,,1.0
+05-01-2020 18:25,AR,What are you doing?,False,Yes,1.0,1.0
+23-01-2020 05:41,mabel,This message was delete,True,No,,1.0
+11-12-2019 08:54,AR,Sure,True,No,,1.0
+11-01-2020 12:11,AR,<Media omitted>,False,Yes,,1.0
+09-12-2019 22:09,AR,love,False,No,,1.0
+25-12-2019 05:40,mabel,when u r free,True,Yes,,1.0
+08-02-2020 12:59,mabel,tomorrow?,True,Yes,,1.0
+26-01-2020 19:59,AR,See you,False,Yes,1.0,1.0
+07-02-2020 05:13,mabel,No problem,True,No,,1.0
+19-12-2019 02:44,mabel,What are you doing?,False,No,1.0,1.0
+29-01-2020 04:59,mabel,See you,False,Yes,1.0,1.0
+12-01-2020 06:03,AR,No problem,True,Yes,,1.0
+12-01-2020 23:58,mabel,Sure,True,No,,1.0
+06-01-2020 17:52,mabel,Missed video call,True,Yes,,1.0
+15-01-2020 04:47,mabel,handsome,False,Yes,,1.0
+06-01-2020 14:32,AR,What are you doing?,True,No,1.0,1.0
+29-12-2019 12:08,mabel,See you,False,Yes,1.0,1.0
+02-02-2020 00:30,mabel,Okay,True,No,,1.0
+15-01-2020 05:12,AR,sweet,True,Yes,,1.0
+18-12-2019 12:29,mabel,image omitted,True,No,,1.0
+10-12-2019 22:53,mabel,See you,False,Yes,1.0,1.0
+09-12-2019 21:33,mabel,busy right now,True,Yes,,1.0
+29-12-2019 02:24,AR,Missed video call,True,Yes,,1.0
+03-02-2020 09:48,AR,darling,False,No,,1.0
+12-12-2019 18:09,AR,darling,True,Yes,,1.0
+17-01-2020 17:58,AR,What are you doing?,True,No,1.0,1.0
+05-02-2020 01:18,mabel,ping u later,False,Yes,,1.0
+28-12-2019 05:16,AR,worst,True,No,,1.0
+16-12-2019 07:52,mabel,babe,False,Yes,,1.0
+23-01-2020 15:39,mabel,love,False,No,,1.0
+23-12-2019 11:10,mabel,image omitted,True,No,,1.0
+27-12-2019 11:35,mabel,cutie,False,Yes,,1.0
+27-01-2020 18:25,mabel,Sure,True,Yes,,1.0
+25-01-2020 22:27,mabel,Missed voice call,True,Yes,0.0,0.0
+25-12-2019 19:41,mabel,No problem,True,Yes,,1.0
+22-01-2020 23:01,AR,darling,False,Yes,,1.0
+28-01-2020 10:43,AR,What are you doing?,True,No,1.0,1.0
+02-01-2020 18:35,AR,handsome,True,No,,1.0
+30-01-2020 19:18,AR,cutie,False,Yes,,1.0
+14-01-2020 09:48,mabel,sweet,True,No,,1.0
+09-01-2020 05:13,mabel,darling,True,No,,1.0
+20-01-2020 23:37,mabel,cutie,True,Yes,,1.0
+27-01-2020 22:02,mabel,<Media omitted>,False,Yes,,1.0
+21-01-2020 12:54,AR,darling,False,No,,1.0
+09-01-2020 18:25,mabel,Haha thats funny!,True,Yes,,1.0
+15-01-2020 00:05,mabel,babe,False,No,,1.0
+28-01-2020 09:39,mabel,See you,False,Yes,1.0,1.0
+26-12-2019 13:33,AR,Missed voice call,True,No,0.0,0.0
+02-01-2020 15:22,mabel,What are you doing?,False,Yes,1.0,1.0
+11-12-2019 10:53,AR,No problem,True,No,,1.0
+03-01-2020 06:12,AR,image omitted,True,Yes,,1.0
+07-02-2020 07:50,AR,What are you doing?,False,No,1.0,1.0
+17-12-2019 04:58,mabel,sweet,False,Yes,,1.0
+15-01-2020 23:19,AR,Sure,False,No,,1.0
+13-12-2019 16:55,AR,Hi this is Mabel we just spoke,False,No,,1.0
+03-12-2019 22:53,AR,Whats your full name,False,Yes,,1.0
+03-12-2019 01:06,AR,Sam,False,No,,1.0
+23-12-2019 13:24,AR,cutie,True,Yes,,1.0
+22-12-2019 23:28,mabel,Sure,True,Yes,,1.0
+16-01-2020 08:53,AR,No problem,True,Yes,,1.0
+22-01-2020 18:19,AR,I will send 2 abstracts for u to start working,True,No,,1.0
+08-12-2019 22:19,AR,Okay,True,No,,1.0
+05-01-2020 12:40,mabel,Yeah mam,True,Yes,,1.0
+28-12-2019 06:09,mabel,Missed voice call,False,No,0.0,0.0
+12-12-2019 20:01,mabel,sweet,False,Yes,,1.0
+20-12-2019 17:06,mabel,image omitted,True,No,,1.0
+11-01-2020 18:31,AR,No problem,False,Yes,,1.0
+27-01-2020 03:23,AR,Give me the list that u have too,False,Yes,,1.0
+20-12-2019 05:19,AR,See you,True,No,1.0,1.0
+07-02-2020 02:07,mabel,Send me cbe office address and phone numbe,True,No,,1.0
+04-01-2020 19:25,mabel,cutie,False,Yes,,1.0
+24-12-2019 15:43,mabel,darling,False,No,,1.0
+30-01-2020 02:51,AR,What are you doing?,False,Yes,1.0,1.0
+09-01-2020 07:38,mabel,darling,False,Yes,,1.0
+01-01-2020 07:42,AR,Sure,True,No,,1.0
+01-01-2020 23:27,AR,send the details of office location,True,Yes,,1.0
+17-12-2019 09:46,mabel,sure,False,Yes,,1.0
+21-12-2019 19:49,AR,I have read the Abstract mam. ,False,No,,1.0
+04-02-2020 23:53,mabel,Okay,False,Yes,,1.0
+19-01-2020 11:44,AR,image omitted,True,No,,1.0
+19-01-2020 01:05,AR,No problem,False,No,,1.0
+23-01-2020 12:54,mabel,make sense,False,Yes,,1.0
+13-01-2020 20:53,mabel,Missed video call,True,No,,1.0
+24-01-2020 21:57,mabel,sweet,True,Yes,,1.0
+11-12-2019 04:22,AR,I have read the Abstract mam. ,True,No,,1.0
+11-12-2019 20:19,AR,love,False,Yes,,1.0
+03-02-2020 09:11,AR,No problem,False,Yes,,1.0
+10-01-2020 13:37,AR,handsome,False,No,,1.0
+13-01-2020 21:39,mabel,image omitted,True,No,,1.0
+22-12-2019 14:52,mabel,wasted,False,Yes,,1.0
+02-02-2020 08:15,AR,time gone,False,Yes,,1.0
+24-01-2020 05:59,mabel,Okay,True,No,,1.0
+04-02-2020 10:22,mabel,Missed video call,True,Yes,,1.0
+07-12-2019 18:13,AR,No problem,False,Yes,,1.0
+23-01-2020 16:31,mabel,darling,False,No,,1.0
